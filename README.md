@@ -1,4 +1,4 @@
-<h1 align="center">Turtle Race</h1>
+<h1 align="center">Game of Snake</h1>
 
 
 
@@ -9,7 +9,7 @@
 
 
 ## Background
-Turtle race game made using Python.
+Snake game made using Java.
 
 
 
@@ -19,7 +19,7 @@ Turtle race game made using Python.
 
 ## Technologies Used
 
-* Python 
+* Java
 
 
 
